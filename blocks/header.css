@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  width: 100%;
+  font-family: "Inter";
+}
+.header__logo {
+  max-width: 254.8373565673828px;
+  max-height: 68.94309997558594;
+  opacity: 1;
+  margin: 34px auto 0;
+  display: flex;
+}
+.header__logo-title {
+  color: white;
+  margin: 20px auto;
+  font-weight: bold;
+  font-family: "Inter";
+}
+
+@media screen and (max-width: 544px) {
+  .header__logo {
+    width: 23.685039520263672px;
+    height: 23.77142906188965px;
+    opacity: 1;
+    max-width: 189px;
+  }
+  .header__logo-title {
+    opacity: 1;
+    font-size: 15px;
+    margin: 10px auto;
+    text-align: center;
+    max-width: 189px;
+  }
+}

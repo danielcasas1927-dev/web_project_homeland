@@ -4,7 +4,6 @@
 @import url(../blocks/lead.css);
 @import url(../blocks/intro.css);
 @import url(../blocks/footer.css);
-/* @font-face {
-  src: url(https://rsms.me/inter/inter.css);
-  font-family: "Inter";
-} */
+@import url(../vendor/fonts.css);
+@import url(../blocks/photos.css);
+@import url(../blocks/places.css);

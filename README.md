@@ -11,6 +11,7 @@ Este proyecto es una página web responsiva sobre lugares del mundo.
 - Flexbox
 - Metodología BEM
 - Diseno responsivo
+- Grid
 
 ## Ver el proyecto
 

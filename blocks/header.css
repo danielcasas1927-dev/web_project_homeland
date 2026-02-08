@@ -6,8 +6,8 @@
   font-family: "Inter";
 }
 .header__logo {
-  max-width: 254.8373565673828px;
-  max-height: 68.94309997558594;
+  max-width: 255px;
+  max-height: 69px;
   opacity: 1;
   margin: 34px auto 0;
   display: flex;
@@ -21,8 +21,8 @@
 
 @media screen and (max-width: 544px) {
   .header__logo {
-    width: 23.685039520263672px;
-    height: 23.77142906188965px;
+    width: 24px;
+    height: 24px;
     opacity: 1;
     max-width: 189px;
   }

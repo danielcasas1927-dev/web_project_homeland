@@ -53,6 +53,9 @@
   height: 100%;
   box-shadow: 10px 10px 25px 0px #00000080;
 }
+.places__image:hover {
+  opacity: 50%;
+}
 .places__description {
   display: flex;
   flex-direction: column;
@@ -81,6 +84,15 @@
   padding-bottom: 13px;
   padding-left: 20px;
   gap: 10px;
+  box-shadow: 5px 5px 10px 0px #00000040;
+}
+.places__button:hover {
+  background: linear-gradient(
+    90deg,
+    rgba(2, 120, 254, 0.25) 0%,
+    rgba(0, 58, 123, 0.25) 99.98%
+  );
+
   box-shadow: 5px 5px 10px 0px #00000040;
 }
 
